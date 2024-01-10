@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/zahidhasan51095" target="blank"><img src="https://img.shields.io/twitter/follow/zahidhasan51095?logo=twitter&style=for-the-badge" alt="zahidhasan51095" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **React Js**
 
 - 📫 How to reach me **zahidhasan140338@gmail.com**
 
